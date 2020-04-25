@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - MetaGame</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+</head>
+<body>
+    @using Microsoft.AspNet.Identity
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("MG", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+
+            <div class="navbar-collapse collapse">
+                @if (Request.IsAuthenticated)
+                {
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink(WebUI.Resources.lang.AnaSayfa, "Index", "Home")</li>
+                        <li>@Html.ActionLink(WebUI.Resources.lang.Etkinlikler, "Events", "Home")</li>
+                        <li>@Html.ActionLink(WebUI.Resources.lang.Haberler, "Haberler", "Home")</li>
+                        <li>@Html.ActionLink(WebUI.Resources.lang.Oyunlar, "Games", "Home")</li>
+                        <li>@Html.ActionLink(WebUI.Resources.lang.UyelerdenGelen, "Istekler", "Home")</li>
+                        <li>@Html.ActionLink(WebUI.Resources.lang.Iletisim, "Contact", "Home")</li>
+                    </ul>
+                }
+                    <div class="nav navbar-nav navbar-right col-md-4">
+                        <div class="col-md-3">
+                            <div class="dropdown">
+                                @if (HttpContext.Current.Session["Culture"].ToString() == "tr")
+                                {
+                                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">TR <span class="caret"></span></button>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                        <li>@Html.ActionLink("EN", "ChangeCulture", "Home", new { lang = "en", returnurl = this.Request.RawUrl }, null)</li>
+                                    </ul>
+                                }
+                                else
+                                {
+                                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">EN <span class="caret"></span></button>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                                        <li>@Html.ActionLink("TR", "ChangeCulture", "Home", new { lang = "tr", returnurl = this.Request.RawUrl }, null)</li>
+                                    </ul>
+                                }
+                            </div>
+                        </div>
+                        @Html.Partial("_LoginPartial")
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <p style="margin:0;">&copy; @DateTime.Now.Year - MetaGame</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

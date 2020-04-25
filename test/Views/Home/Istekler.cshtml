@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Üyelerden Gelenler";
+}
+
+@model  List<WebUI.Models.Data.Blog>
+
+@using Microsoft.AspNet.Identity
+
+@if (Request.IsAuthenticated)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-8">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><h4>Resimler</h4></div>
+                    <div class="container">
+                        @foreach (var item in Model)
+                        {
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading">@item.BlogBaslik</div>
+                                        <div class="panel-body">
+                                            @if (item.BlogFoto == null)
+                                            {
+                                                <img class="img-responsive" src="~/Content/images/resimyok.png" />
+                                            }
+                                            else
+                                            {
+                                                <img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.BlogFoto)">
+                                            }
+                                            <div class="panel-footer text-center">
+                                                <h4>@String.Format("{0:dd/MM/yyyy}", item.BlogTarih)</h4>
+                                                <p>
+                                                    <br />
+                                                    @item.BlogIcerik
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4>Resimler</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>Paylaşılmasını istediğiniz resim, video vb. iletişim bölümünden gönderebilirsiniz</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div align="center">
+                <div class="panel panel-default">
+                    <div class="maviarkaplan">
+                        <div class="panel-heading">Bu Sayfaya Erişebilmek İçin Lütfen Giriş Yapınız</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

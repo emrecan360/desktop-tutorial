@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNet.Identity
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        if (User.Identity.GetUserName() == "emrejan360@gmail.com")
+        {
+            <li>@Html.ActionLink(WebUI.Resources.lang.Admin, "Index", "Admin")</li>
+        }
+        if (User.Identity.GetUserName() == "test@gmail.com")
+        {
+            <li>@Html.ActionLink("İstekler", "Istek", "Admin")</li>
+        }
+        <li>
+            @Html.ActionLink(WebUI.Resources.lang.Merhaba + " " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+
+        </li>
+        <li><a href="javascript:document.getElementById('logoutForm').submit()">@WebUI.Resources.lang.Cıkış</a></li>
+    }
+}
+else
+{
+    <li>@Html.ActionLink(WebUI.Resources.lang.UyeOl, "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+    <li>@Html.ActionLink(WebUI.Resources.lang.Giris, "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+
+}
+
+
+

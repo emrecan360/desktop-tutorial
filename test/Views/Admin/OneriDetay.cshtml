@@ -1,0 +1,91 @@
+﻿
+@{
+    ViewBag.Title = "OneriDetay";
+}
+<h4>Detaylar</h4>
+
+@model WebUI.Models.Data.Oneri
+
+
+@using Microsoft.AspNet.Identity
+@if (User.Identity.GetUserName() == "emrejan360@gmail.com")
+{
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Mesaj</h4>
+                </div>
+                <div class="panel-body">
+                    <p>@Model.Mesaj </p>
+                </div>
+                <div class="panel-footer text-center">
+                    <p>@Model.Mesaj </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+             <div class="panel panel-default">
+                <div class="panel-heading">
+                   <h4>Bilgiler</h4>
+                 </div>
+                  <div class="panel-body">
+                  <h4>AdSoyad:@Model.AdSoyad</h4>
+                      <h4>Mail:@Model.Eposta</h4>
+                      <h4>Tel:@Model.Telefon</h4>
+                      <h4>Talep No:@Model.ID</h4>
+                      <h4>Tarih:@Model.Tarih</h4>
+                        </div>
+                    </div>
+            </div>
+    </div>
+</div>
+using (Html.BeginForm("OneriDetay", "Admin", FormMethod.Post, new { @class = "form-horizontal", enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(m => m.ID)
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4>Cevapla</h4>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <label class="col-sm-2 control-label">İçerik</label>
+                        <div class="col-sm-10">
+                            @Html.TextAreaFor(m => m.Telefon, new { @class = "form-control", rows = 6, columns = 40 })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-footer">
+            <div class="row">
+                <div class="col-sm-9 col-sm-offset-3">
+                    <div class="btn-toolbar pull-right">
+                        <input type="submit" value="Güncelle" class="btn btn-success" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+}
+
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div align="center">
+                <div class="panel panel-default">
+                    <div class="maviarkaplan">
+                        <div class="panel-heading">Bu Sayfaya Erişim Yetkiniz Bulunmamaktadır</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+

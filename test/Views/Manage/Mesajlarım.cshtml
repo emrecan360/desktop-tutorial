@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Mesajlarım";
+}
+
+@model List<WebUI.Models.Data.Oneri>
+<div class="row">
+    <div class="col-md-10">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Mesajlarım</h4>
+            </div>
+            <div class="panel-body">
+                <table class="table table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th class="col-md-4">AdSoyad</th>
+                            <th class="col-md-4">Tarih</th>
+                            <th class="col-md-4">E-Posta</th>
+                            <th>No</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @using Microsoft.AspNet.Identity
+
+                        @foreach (var item in Model)
+                        {
+                            if (Request.IsAuthenticated)
+                            {
+                                if (User.Identity.GetUserName() == item.Eposta)
+                                {
+
+                                    <tr>
+                                        <td>@item.AdSoyad</td>
+                                        <td>@String.Format("{0:d}", @item.Tarih)</td>
+                                        <td>@item.Eposta</td>
+                                        <td>@item.ID</td>
+                                        <td><a href="/Manage/MesajDetay?OneriID=@item.ID" class="btn btn-primary">@WebUI.Resources.lang.Detaylar</a></td>
+                                        </tr>
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

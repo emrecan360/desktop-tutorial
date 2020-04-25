@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "MesajDetay";
+}
+
+
+
+@model WebUI.Models.Data.Oneri
+
+<div class="row">
+    <h4>Detaylar</h4>
+    <div class="col-md-12">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Mesajınız</h4>
+                </div>
+                <div class="panel-body">
+                    <p>@Model.Mesaj </p>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Cevap</h4>
+                </div>
+                <div class="panel-body">
+                    <p>@Model.Telefon </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Bilgiler</h4>
+                </div>
+                <div class="panel-body">
+                    <h4>AdSoyad:@Model.AdSoyad</h4>
+                    <h4>Mail:@Model.Eposta</h4>
+                    <h4>Talep No:@Model.ID</h4>
+                    <h4>Tarih:@Model.Tarih</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "EventDetails";
+}
+
+@model  WebUI.Models.Data.Duyuru
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>@Model.ModulBaslik</h4>
+            </div><div class="panel-body">
+                <div class="col-md-8">
+
+                    @if (Model.ModulFoto == null)
+                    {
+                        <img class="img-responsive" src="~/Content/images/resimyok.png" alt="@Model.ModulBaslik" />
+                    }
+                    else
+                    {
+                        <img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(Model.ModulFoto)" alt="@Model.ModulBaslik">
+                    }
+                </div>
+                <div class="col-md-4">
+                    <h4>@Model.ModulBaslik</h4>
+                    <p>@Model.ModulIcerik </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,360 @@
+﻿@{
+    ViewBag.Title = "Ana Sayfa";
+}
+
+@model WebUI.Controllers.AnaSayfaDTO
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
+
+@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner" role="listbox">
+                            <!-- En Son eklenen Slide getiriyoruz -->
+                            @foreach (var item in Model.slider)
+                            {
+                                <div id="slider" class="item" data-id="@item.ID">
+                                    @if (item.SliderFoto == null)
+                                    {
+                                        <img style="height:625px;" src="~/Content/images/resimyok.png" alt="@item.SliderText" />
+                                    }
+                                    else
+                                    {
+                                        <img style="height:625px;" src="data:image/png;base64,@System.Convert.ToBase64String(item.SliderFoto)" alt="@item.SliderText">
+                                    }
+                                    <div class="carousel-caption">
+                                        <h3>@item.SliderText</h3>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="maviarkaplan">
+                    <div class="panel-heading">@WebUI.Resources.lang.Etkinlikler</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen Etkinlik getiriyoruz -->
+                    @foreach (var item in Model.Duyuru)
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.DuyuruFoto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.DuyuruBaslik" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.DuyuruFoto)" alt="@item.DuyuruBaslik"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.DuyuruBaslik</a></h5>
+                                <p class="blog-list-meta small-text"><span><a>@String.Format("{0:dd/MM/yyyy}", item.DuyuruTarih)</a></span></p>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    @Html.ActionLink(WebUI.Resources.lang.Tumetkinlikler, "Events", "Home")
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="kirmiziarkaplan">
+                    <div class="panel-heading">Son League Of Legends Videoları</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen referans getiriyoruz -->
+                    @foreach (var item in Model.takim.Where(x => x.Tip == 1))
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.Foto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.AdSoyad" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.Foto)" alt="@item.AdSoyad"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.AdSoyad</a></h5>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    @Html.ActionLink("Tüm League Of Legends Videoları", "LolVideo", "Home")
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="yesilarkaplan">
+                    <div class="panel-heading">Son League Of Legends Rehberleri</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen referans getiriyoruz -->
+                    @foreach (var item in Model.takim.Where(x => x.Tip == 2))
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.Foto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.AdSoyad" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.Foto)" alt="@item.AdSoyad"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.AdSoyad</a></h5>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    @Html.ActionLink("Tüm League Of Legends Rehberleri", "LolRehber", "Home")
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="maviarkaplan">
+                    <div class="panel-heading">Haberler</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen referans getiriyoruz -->
+                    @foreach (var item in Model.modul)
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.ModulFoto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.ModulBaslik" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.ModulFoto)" alt="@item.ModulBaslik"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.ModulBaslik</a></h5>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    @Html.ActionLink("Tüm Haberler", "Haberler", "Home")
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="kirmiziarkaplan">
+                    <div class="panel-heading">Son Dragon Nest Videoları</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen referans getiriyoruz -->
+                    @foreach (var item in Model.takim.Where(x => x.Tip == 3))
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.Foto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.AdSoyad" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.Foto)" alt="@item.AdSoyad"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.AdSoyad</a></h5>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    @Html.ActionLink("Tüm Dragon Nest Videoları", "DnVideo", "Home")
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="yesilarkaplan">
+                    <div class="panel-heading">LolVideo</div>
+                </div>
+                <div class="panel-body">
+                    <!-- En Son eklenen referans getiriyoruz -->
+                    @foreach (var item in Model.takim.Where(x => x.Tip == 4))
+                    {
+                        <div class="blog-list-post clearfix">
+                            <div class="blog-list-thumb">
+                                @if (item.Foto == null)
+                                {
+                                    <a><img class="img-responsive" src="~/Content/images/resimyok.png" alt="@item.AdSoyad" /></a>
+                                }
+                                else
+                                {
+                                    <a><img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.Foto)" alt="@item.AdSoyad"></a>
+                                }
+                            </div>
+                            <div class="blog-list-details">
+                                <h5 class="blog-list-title"><a href="#">@item.AdSoyad</a></h5>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="panel-footer text-center">
+                    <div class="renk">@Html.ActionLink("Tüm Dragon Nest Rehberleri", "DnRehber", "Home")</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">League Of Legends</div>
+                <div class="panel-body">
+                    <a href='/Home/Lol'><img class="img-responsive" src="~/Content/images/GpGC8aTW (525 x 550).jpg" alt=""></a>
+                </div>
+                <div class="panel-footer text-center">
+                    <p>
+                        League of Legends tempolu, rekabete dayalı, strateji oyunlarının heyecanını rol yapma oyunlarının öğeleriyle bir araya getiren çevrimiçi bir oyundur.<br />
+                        Tasarımları ve oynanışlarıyla kendine özgü şampiyonlardan oluşan iki takım, çeşitli savaş alanlarında ve oyun modlarında başa baş mücadele eder.<br />
+                        League of Legends sürekli çeşitlenen şampiyonları, sık sık güncellenen içeriği ve canlı turnuva ortamıyla, her beceri seviyesindeki oyuncunun sıkılmadan çok uzun süre oynayabileceği bir oyundur.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">Dragon Nest</div>
+                <div class="panel-body">
+                    <a href='/Home/Dn'><img class="img-responsive" src="~/Content/images/dragon-nest (525 x 550).png" alt=""></a>
+                </div>
+                <div class="panel-footer text-center">
+                    <p>
+                        Nefes Kesici MMO Aksiyonu<br />
+                        Salto! Hücum! Kaçma! Kombo Öldürüş!<br />
+                        3 boyutlu, hedefi senin belirleyebileceğin (space combat) ve sana sınırsız savaş imkanları sunan çevrim içi MMO aksiyon RPG oyunu Dragon Nest’te bu muhteşem becerileri kullanarak ortalığı kasıp kavur. Kişisel dövüş tarzınla azılı canavarlar ve vahşi bosslara karşı mücadele ederken, adrenalini doruk noktasına çıkar. Takımını oluştur, geniş göz kamaştırıcı beceri seçenekleri ile savaş alanına gir ve her bir takım arkadaşının üstün yeteneği ile galibiyetin keyfini sür. Durmaksızın macera, korkaklara göre değildir!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Slider ilk yüklenirken active class eklemek için -->
+    <script type="text/javascript">
+        $("#slider.item:first").addClass("item active");
+    </script>
+    <script type="text/javascript">
+        $("#slider1.item:first").addClass("item active");
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+        (function ($) {
+
+            //Function to animate slider captions
+            function doAnimations(elems) {
+                //Cache the animationend event in a variable
+                var animEndEv = 'webkitAnimationEnd animationend';
+
+                elems.each(function () {
+                    var $this = $(this),
+                        $animationType = $this.data('animation');
+                    $this.addClass($animationType).one(animEndEv, function () {
+                        $this.removeClass($animationType);
+                    });
+                });
+            }
+
+            //Variables on page load
+            var $myCarousel = $('#carousel-example-generic'),
+                $firstAnimatingElems = $myCarousel.find('.item:first').find("[data-animation ^= 'animated']");
+
+            //Initialize carousel
+            $myCarousel.carousel();
+
+            //Animate captions in first slide on page load
+            doAnimations($firstAnimatingElems);
+
+            //Pause carousel
+            $myCarousel.carousel('pause');
+
+
+            //Other slides to be animated on carousel slide event
+            $myCarousel.on('slide.bs.carousel', function (e) {
+                var $animatingElems = $(e.relatedTarget).find("[data-animation ^= 'animated']");
+                doAnimations($animatingElems);
+            });
+            $('#carousel-example-generic').carousel({
+                interval: 3000,
+                pause: "false"
+            });
+
+        })(jQuery);
+
+    </script>
+
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div align="center">
+                <div class="panel panel-default">
+                    <div class="maviarkaplan">
+                        <div class="panel-heading">İçeriklere Erişebilmek İçin Lütfen Giriş Yapınız</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

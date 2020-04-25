@@ -1,0 +1,882 @@
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\WebUI.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Owin.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Desktop\ddd\sabistanitim4\SabisTanitim4\EgitimMerkezi\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\WebUI.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Owin.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Desktop\MetaGame\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Documents\metagamev2\WebUI\obj\Debug\WebUI.pdb
+D:\ders\web prgramlama\metagamev2\WebUI\bin\ApplicationInsights.config
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\csc.exe
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\vbc.exe
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\ders\web prgramlama\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\ders\web prgramlama\metagamev2\WebUI\bin\WebUI.dll.config
+D:\ders\web prgramlama\metagamev2\WebUI\bin\WebUI.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\WebUI.pdb
+D:\ders\web prgramlama\metagamev2\WebUI\bin\en\WebUI.resources.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\EntityFramework.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Owin.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Helpers.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Mvc.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Optimization.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Razor.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\WebGrease.dll
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Helpers.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Mvc.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Optimization.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.Razor.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\EntityFramework.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ders\web prgramlama\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\WebUI.dll
+D:\ders\web prgramlama\metagamev2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Desktop\metagamev2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Desktop\staj\metagamev2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emre\Desktop\masaüstü\staj\metagamev2\WebUI\obj\Debug\WebUI.pdb
+E:\ders\staj\metagamev2\WebUI\bin\ApplicationInsights.config
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\csc.exe
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\vbc.exe
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+E:\ders\staj\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\ders\staj\metagamev2\WebUI\bin\WebUI.dll.config
+E:\ders\staj\metagamev2\WebUI\bin\WebUI.dll
+E:\ders\staj\metagamev2\WebUI\bin\WebUI.pdb
+E:\ders\staj\metagamev2\WebUI\bin\en\WebUI.resources.dll
+E:\ders\staj\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+E:\ders\staj\metagamev2\WebUI\bin\EntityFramework.dll
+E:\ders\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\ders\staj\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+E:\ders\staj\metagamev2\WebUI\bin\Owin.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Helpers.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Mvc.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Optimization.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Razor.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.dll
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+E:\ders\staj\metagamev2\WebUI\bin\WebGrease.dll
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Helpers.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Mvc.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Optimization.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.Razor.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\ders\staj\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+E:\ders\staj\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+E:\ders\staj\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+E:\ders\staj\metagamev2\WebUI\bin\EntityFramework.xml
+E:\ders\staj\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ders\staj\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ders\staj\metagamev2\WebUI\obj\Debug\MetaGame.csprojResolveAssemblyReference.cache
+E:\ders\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+E:\ders\staj\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+E:\ders\staj\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+E:\ders\staj\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.Cache
+E:\ders\staj\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+E:\ders\staj\metagamev2\WebUI\obj\Debug\WebUI.dll
+E:\ders\staj\metagamev2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\MetaGame.csprojAssemblyReference.cache
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.cache
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\MetaGame.csproj.CopyComplete
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emrecan\Desktop\metagamev2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\ApplicationInsights.config
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\csc.exe
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\vbc.exe
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\WebUI.dll.config
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\WebUI.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\WebUI.pdb
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\en\WebUI.resources.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\EntityFramework.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Owin.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Razor.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\WebGrease.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.Razor.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\EntityFramework.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\MetaGame.csprojAssemblyReference.cache
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.resources
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\WebUI.Scripts.lang.resources
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\WebUI.Resources.lang.en.resources
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\MetaGame.csproj.GenerateResource.cache
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\en\WebUI.resources.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\MetaGame.csproj.CopyComplete
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\WebUI.dll
+C:\Users\Emrecan\Desktop\yedek\metagamev2\WebUI\obj\Debug\WebUI.pdb

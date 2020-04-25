@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "İletişim";
+}
+
+@model List<WebUI.Models.Data.Oneri>
+
+@using Microsoft.AspNet.Identity
+@if (User.Identity.GetUserName() == "emrejan360@gmail.com")
+{
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-2">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Admin Menü</h4>
+                </div>
+                <div class="panel-body">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                        <li>@Html.ActionLink("Slide", "Slider", "Admin")</li>
+                        <li>@Html.ActionLink("Etkinlikler", "Etkinlikler", "Admin")</li>
+                        <li>@Html.ActionLink("Haberler", "Haberler", "Admin")</li>
+                        <li>@Html.ActionLink("Oyunlar", "Oyun", "Admin")</li>
+                        <li>@Html.ActionLink("İstekler", "Istek", "Admin")</li>
+                        <li class="active">@Html.ActionLink("İletişim", "Iletisim", "Admin")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-10">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>İletişim</h4>
+                    </div>
+                <div class="panel-body">
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th class="col-md-4">AdSoyad</th>
+                                <th class="col-md-4">Tarih</th>
+                                <th class="col-md-4">E-Posta</th>
+                                <th>No</th>
+                                <th></th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr><td>@item.AdSoyad</td>
+                                    <td>@String.Format("{0:d}", @item.Tarih)</td>
+                                    <td>@item.Eposta</td>
+                                    <td>@item.ID</td>
+                                    <td><a href='/Admin/OneriDetay?OneriID=@item.ID' class='btn btn-xs btn-info tooltips' title='Detay'>Detay</a></td>
+                                    <td>@Html.ActionLink("Sil", "/OneriSil", new { OneriID = item.ID }, new { @class = "btn btn-xs btn-danger tooltips", onclick = "return confirm('Silmek İstediğinize Emin Misinizin ?');" })</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div align="center">
+                <div class="panel panel-default">
+                    <div class="maviarkaplan">
+                        <div class="panel-heading">Bu Sayfaya Erişim Yetkiniz Bulunmamaktadır</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

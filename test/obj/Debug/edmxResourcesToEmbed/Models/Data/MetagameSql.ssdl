@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MetaGameModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MetaGame.dbo.Blogs' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Blogs">
+          <Property Name="ID" Type="int" />
+          <Property Name="BlogFoto" Type="varbinary(max)" />
+          <Property Name="BlogBaslik" Type="nvarchar(max)" />
+          <Property Name="BlogIcerik" Type="nvarchar(max)" />
+          <Property Name="BlogTarih" Type="datetime" />
+          <Property Name="Tarih" Type="datetime" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Duyurus' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Duyurus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="DuyuruFoto" Type="varbinary(max)" />
+    <Property Name="DuyuruBaslik" Type="nvarchar(max)" />
+    <Property Name="DuyuruIcerik" Type="nvarchar(max)" />
+    <Property Name="DuyuruTarih" Type="datetime" />
+    <Property Name="Tarih" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Etkinliks' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Etkinliks">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="EtkinlikFoto" Type="varbinary(max)" />
+    <Property Name="EtkinlikBaslik" Type="nvarchar(max)" />
+    <Property Name="EtkinlikIcerik" Type="nvarchar(max)" />
+    <Property Name="BaslangicTarih" Type="datetime" />
+    <Property Name="BitisTarih" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'MetaGame.dbo.Moduls' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Moduls">
+          <Property Name="asd" Type="char" MaxLength="10" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Oneris' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Oneris">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="AdSoyad" Type="nvarchar(max)" />
+    <Property Name="Telefon" Type="nvarchar(max)" />
+    <Property Name="Eposta" Type="nvarchar(max)" />
+    <Property Name="Mesaj" Type="nvarchar(max)" />
+    <Property Name="Tarih" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Referans' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Referans">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ReferansFoto" Type="varbinary(max)" />
+    <Property Name="ReferansBaslik" Type="nvarchar(max)" />
+    <Property Name="ReferansIcerik" Type="nvarchar(max)" />
+    <Property Name="ReferansTarih" Type="datetime" />
+    <Property Name="Tarih" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Sliders' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Sliders">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="SliderFoto" Type="varbinary(max)" />
+    <Property Name="SliderText" Type="nvarchar(max)" />
+    <Property Name="BaslangicTarih" Type="datetime" />
+    <Property Name="BitisTarih" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Takims' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Takims">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Foto" Type="varbinary(max)" />
+    <Property Name="AdSoyad" Type="nvarchar(max)" />
+    <Property Name="Icerik" Type="nvarchar(max)" />
+    <Property Name="Tip" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MetaGame.dbo.Yonetici' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Yonetici">
+    <Key>
+      <PropertyRef Name="yoneticiID" />
+    </Key>
+    <Property Name="yoneticiID" Type="int" Nullable="false" />
+    <Property Name="yoneticiAdSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="YoneticiKullanici" Type="nvarchar" MaxLength="50" />
+    <Property Name="YoneticiSifre" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="MetaGameModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Duyurus" EntityType="Self.Duyurus" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Duyurus].[ID] AS [ID], 
+    [Duyurus].[DuyuruFoto] AS [DuyuruFoto], 
+    [Duyurus].[DuyuruBaslik] AS [DuyuruBaslik], 
+    [Duyurus].[DuyuruIcerik] AS [DuyuruIcerik], 
+    [Duyurus].[DuyuruTarih] AS [DuyuruTarih], 
+    [Duyurus].[Tarih] AS [Tarih]
+    FROM [dbo].[Duyurus] AS [Duyurus]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Etkinliks" EntityType="Self.Etkinliks" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Etkinliks].[ID] AS [ID], 
+    [Etkinliks].[EtkinlikFoto] AS [EtkinlikFoto], 
+    [Etkinliks].[EtkinlikBaslik] AS [EtkinlikBaslik], 
+    [Etkinliks].[EtkinlikIcerik] AS [EtkinlikIcerik], 
+    [Etkinliks].[BaslangicTarih] AS [BaslangicTarih], 
+    [Etkinliks].[BitisTarih] AS [BitisTarih]
+    FROM [dbo].[Etkinliks] AS [Etkinliks]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Oneris" EntityType="Self.Oneris" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Oneris].[ID] AS [ID], 
+    [Oneris].[AdSoyad] AS [AdSoyad], 
+    [Oneris].[Telefon] AS [Telefon], 
+    [Oneris].[Eposta] AS [Eposta], 
+    [Oneris].[Mesaj] AS [Mesaj], 
+    [Oneris].[Tarih] AS [Tarih]
+    FROM [dbo].[Oneris] AS [Oneris]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Referans" EntityType="Self.Referans" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Referans].[ID] AS [ID], 
+    [Referans].[ReferansFoto] AS [ReferansFoto], 
+    [Referans].[ReferansBaslik] AS [ReferansBaslik], 
+    [Referans].[ReferansIcerik] AS [ReferansIcerik], 
+    [Referans].[ReferansTarih] AS [ReferansTarih], 
+    [Referans].[Tarih] AS [Tarih]
+    FROM [dbo].[Referans] AS [Referans]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Sliders" EntityType="Self.Sliders" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Sliders].[ID] AS [ID], 
+    [Sliders].[SliderFoto] AS [SliderFoto], 
+    [Sliders].[SliderText] AS [SliderText], 
+    [Sliders].[BaslangicTarih] AS [BaslangicTarih], 
+    [Sliders].[BitisTarih] AS [BitisTarih]
+    FROM [dbo].[Sliders] AS [Sliders]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Takims" EntityType="Self.Takims" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Takims].[ID] AS [ID], 
+    [Takims].[Foto] AS [Foto], 
+    [Takims].[AdSoyad] AS [AdSoyad], 
+    [Takims].[Icerik] AS [Icerik], 
+    [Takims].[Tip] AS [Tip]
+    FROM [dbo].[Takims] AS [Takims]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Yonetici" EntityType="Self.Yonetici" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Yonetici].[yoneticiID] AS [yoneticiID], 
+    [Yonetici].[yoneticiAdSoyad] AS [yoneticiAdSoyad], 
+    [Yonetici].[YoneticiKullanici] AS [YoneticiKullanici], 
+    [Yonetici].[YoneticiSifre] AS [YoneticiSifre]
+    FROM [dbo].[Yonetici] AS [Yonetici]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

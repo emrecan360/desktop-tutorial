@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Etkinlikler";
+}
+
+@model List<WebUI.Models.Data.Duyuru>
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading"><h4>Etkinlikler</h4>
+            </div>
+            <div class="container">
+                @foreach (var item in Model)
+            {
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    @item.DuyuruBaslik
+                                <div class="text-right">
+                                    <h4>Eklenme:@String.Format("{0:dd/MM/yyyy}", item.Tarih)</h4>
+                                </div>
+                            </div>
+                                    <div class="panel-body">
+                                        @if (item.DuyuruFoto == null)
+                                        {
+                                            <img class="img-responsive" src="~/Content/images/resimyok.png" />
+                                        }
+                                        else
+                                        {
+                                            <img class="img-responsive" src="data:image/png;base64,@System.Convert.ToBase64String(item.DuyuruFoto)">
+                                        }
+                                            <p>
+                                                <br />
+                                                @item.DuyuruIcerik
+                                            </p>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

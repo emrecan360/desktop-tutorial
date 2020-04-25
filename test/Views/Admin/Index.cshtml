@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Admin";
+}
+
+
+@using Microsoft.AspNet.Identity
+@if (User.Identity.GetUserName() == "emrejan360@gmail.com")
+{
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-2">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4>Admin Menü</h4>
+                </div>
+                <div class="panel-body">
+                    <ul class="nav nav-pills nav-stacked">
+                        <li class="active">@Html.ActionLink("Admin", "Index", "Admin")</li>
+                        <li>@Html.ActionLink("Slide", "Slider", "Admin")</li>
+                        <li>@Html.ActionLink("Etkinlikler", "Etkinlikler", "Admin")</li>
+                        <li>@Html.ActionLink("Haberler", "Haberler", "Admin")</li>
+                        <li>@Html.ActionLink("Oyunlar", "Oyun", "Admin")</li>
+                        <li>@Html.ActionLink("İstekler", "Istek", "Admin")</li>
+                        <li>@Html.ActionLink("İletişim", "Iletisim", "Admin")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-10">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4>Admin Duyuru</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>
+                            Sliderlara sadece height uzunluğu 1920px olan (örnek:1920x1080 ,1920x1200) resim dosyalarını ekleyiniz
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}
+
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <div align="center">
+                <div class="panel panel-default">
+                    <div class="maviarkaplan">
+                        <div class="panel-heading">Bu Sayfaya Erişim Yetkiniz Bulunmamaktadır</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

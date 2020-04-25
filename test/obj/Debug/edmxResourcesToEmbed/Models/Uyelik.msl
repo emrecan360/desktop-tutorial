@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UyelikModelStoreContainer" CdmEntityContainer="UyelikContext">
+    <EntitySetMapping Name="Login">
+      <EntityTypeMapping TypeName="UyelikModel.Login">
+        <MappingFragment StoreEntitySet="Login">
+          <ScalarProperty Name="LId" ColumnName="LId" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="LogTip" ColumnName="LogTip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="modelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="modelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BlogsSet" EntityType="modelModel.Blogs" />
+    <EntitySet Name="DuyurusSet" EntityType="modelModel.Duyurus" />
+    <EntitySet Name="EtkinliksSet" EntityType="modelModel.Etkinliks" />
+    <EntitySet Name="Entity4Set" EntityType="modelModel.Entity4" />
+    <EntitySet Name="Entity5Set" EntityType="modelModel.Entity5" />
+    <EntitySet Name="Entity6Set" EntityType="modelModel.Entity6" />
+    <EntitySet Name="Entity7Set" EntityType="modelModel.Entity7" />
+    <EntitySet Name="Entity8Set" EntityType="modelModel.Entity8" />
+  </EntityContainer>
+  <EntityType Name="Blogs">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BlogFoto" Type="String" Nullable="false" />
+    <Property Name="BlogBaslik" Type="String" Nullable="false" />
+    <Property Name="BlogIcerik" Type="String" Nullable="false" />
+    <Property Name="BlogTarih" Type="String" Nullable="false" />
+    <Property Name="Tarih" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Duyurus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DuyuruFoto" Type="String" Nullable="false" />
+    <Property Name="DuyuruBaslik" Type="String" Nullable="false" />
+    <Property Name="DuyuruIcerik" Type="String" Nullable="false" />
+    <Property Name="DuyuruTarih" Type="String" Nullable="false" />
+    <Property Name="Tarih" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Etkinliks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Entity4">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Entity5">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Entity6">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Entity7">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Entity8">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+</Schema>

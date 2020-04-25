@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MetaGameModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Duyurus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="DuyuruFoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="DuyuruBaslik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DuyuruIcerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DuyuruTarih" Type="DateTime" Precision="3" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Etkinliks">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="EtkinlikFoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="EtkinlikBaslik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EtkinlikIcerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BaslangicTarih" Type="DateTime" Precision="3" />
+    <Property Name="BitisTarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Oneris">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="AdSoyad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Eposta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Mesaj" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Referans">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="ReferansFoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ReferansBaslik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ReferansIcerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ReferansTarih" Type="DateTime" Precision="3" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Sliders">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="SliderFoto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="SliderText" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BaslangicTarih" Type="DateTime" Precision="3" />
+    <Property Name="BitisTarih" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="Takims">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="AdSoyad" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Icerik" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Tip" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Yonetici">
+    <Key>
+      <PropertyRef Name="yoneticiID" />
+    </Key>
+    <Property Name="yoneticiID" Type="Int32" Nullable="false" />
+    <Property Name="yoneticiAdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YoneticiKullanici" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YoneticiSifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="MetaGameEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Duyurus" EntityType="Self.Duyurus" />
+    <EntitySet Name="Etkinliks" EntityType="Self.Etkinliks" />
+    <EntitySet Name="Oneris" EntityType="Self.Oneris" />
+    <EntitySet Name="Referans" EntityType="Self.Referans" />
+    <EntitySet Name="Sliders" EntityType="Self.Sliders" />
+    <EntitySet Name="Takims" EntityType="Self.Takims" />
+    <EntitySet Name="Yonetici" EntityType="Self.Yonetici" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = @WebUI.Resources.lang.Iletisim;
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>@WebUI.Resources.lang.Iletisim</h4>
+            </div>
+            <div class="panel-body">
+                <div class="col-md-12">
+                    <address>
+                        Facebook:Eklenilcek<br />
+                        Youtube:Eklenilcek<br />
+                        @*<abbr title="Phone">P:</abbr>buraya numara yazılabilir*@
+                        <abbr title="Email">Mail:</abbr>emrejan360@gmail.com
+                    </address>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>@WebUI.Resources.lang.IletisimForm</h4>
+            </div>
+            <div class="panel-body">
+                <div col-md-12>
+                    <div class="contact-form">
+                        @using (Html.BeginForm("Contact", "Home", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                        {
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">Adınız Soyadınız *</label>
+                                @Html.TextArea("adsoyad", null, new { @class = "form-control", placeholder = @WebUI.Resources.lang.AdSoyad, rows = 1, columns = 40 })
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">Eposta *</label>
+                                @Html.TextArea("eposta", null, new { @class = "form-control", placeholder = @WebUI.Resources.lang.Eposta, rows = 1, columns = 40 })
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-4 control-label">@WebUI.Resources.lang.Mesaj *</label>
+                                @Html.TextArea("Mesaj", null, new { @class = "form-control", placeholder = @WebUI.Resources.lang.Mesaj, rows = 6, columns = 40 })
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="col-sm-offset-4 btn btn-primary">@WebUI.Resources.lang.Gonder</button>
+                                <label>@TempData["Mesaj"]</label>
+                            </div>
+                        }                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

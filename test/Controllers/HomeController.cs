@@ -113,14 +113,28 @@ namespace WebUI.Controllers
             }
         }
         [HttpPost]
+        [ValidateInput(false)]
         public ActionResult Contact(Oneri iletisimform)
         {
             try
             {
                 using (MetaGameContext context = new MetaGameContext())
                 {
+                    //char[] char_arr = iletisimform.AdSoyad.ToCharArray();
+                    //for (int i= 0;i< iletisimform.AdSoyad.Length;i++)
+                    //{
+                    //    if (char_arr[i] == '<' || char_arr[i] == '>' || char_arr[i] == ' ') 
+                    //    char_arr[i] = 'x';
+                    //}
+                    //string str = new string(char_arr);
+
+
                     Oneri _iletisimform = new Oneri();
+                    
                     _iletisimform.AdSoyad = iletisimform.AdSoyad;
+
+                    //_iletisimform.AdSoyad = str;
+
                     _iletisimform.Telefon = iletisimform.Telefon;
                     _iletisimform.Eposta = iletisimform.Eposta;
                     _iletisimform.Mesaj = iletisimform.Mesaj;
